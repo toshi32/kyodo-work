@@ -1,0 +1,3 @@
+$("#test").magnificPopup({
+  type: "inline"
+});

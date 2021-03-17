@@ -31,3 +31,10 @@ textarea{
 input[type="submit"]:hover{
   opacity: 0.6;
 }
+.popup {
+  width: 50%;
+  margin: auto;
+  position: relative;
+  background: #fff;
+  padding: 20px;
+}
